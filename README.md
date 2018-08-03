@@ -4,5 +4,5 @@
 # How it works
 #### 1. Android Auto Connected
 #### 2. Move to Media category
-### 3. Click PressAAuto
+#### 3. Click PressAAuto
 
